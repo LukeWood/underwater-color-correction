@@ -9,3 +9,7 @@ Clone this repo, `run npm install && npm install --dev`
 ```
 ./src/index.ts -d <input-dir> -o <output-dir>
 ```
+
+![test/download.png](test/download.png)
+
+![testout/download.png](testout/download.png)
